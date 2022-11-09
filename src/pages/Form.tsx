@@ -87,7 +87,7 @@ export const Form = () => {
 
     // Output
     return (
-        <div className="contactForm pushDown200 blueBackground">
+        <div className="contactForm pushDown200">
             <h1>Get Calendar Link <i className="fa-regular fa-calendar"></i> </h1>
             <input type="text" onChange={event1} placeholder='Event Name' />
 

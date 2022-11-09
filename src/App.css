@@ -195,3 +195,9 @@ i {
     color: black !important;
     filter: brightness(1.1);
 }
+
+#customNav{
+    background-color: rgba(0, 0, 0, 0) !important;
+    backdrop-filter:  blur(0px) !important;
+    box-shadow: none !important;
+}
