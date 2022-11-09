@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calendarLink/static/css/main.8aa73ebe.css",
+    "main.js": "/calendarLink/static/js/main.daa0127c.js",
+    "index.html": "/calendarLink/index.html",
+    "main.8aa73ebe.css.map": "/calendarLink/static/css/main.8aa73ebe.css.map",
+    "main.daa0127c.js.map": "/calendarLink/static/js/main.daa0127c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa73ebe.css",
+    "static/js/main.daa0127c.js"
+  ]
+}
